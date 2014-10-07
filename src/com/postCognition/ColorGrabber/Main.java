@@ -4,7 +4,7 @@ package com.postCognition.ColorGrabber;
 import javax.swing.JOptionPane;
 public class Main implements Runnable {
 	static int a = 255, r = 0, g = 0, b = 0;
-	static String r1, g1, b1, test1;
+	static String r1, g1, b1;
 
 	public static void main(String[] args) {
 		Main m = new Main();
