@@ -8,6 +8,7 @@ public class Main implements Runnable {
 
 	public static void main(String[] args) {
 		Main m = new Main();
+        System.out.println("b");
 		m.start();
 	}
 
